@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">PasswordManager</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="tags">标签</string>
     <string name="action_settings">Settings</string>
+    <string name="password">密码</string>
+    <string name="savePassword">保存密码</string>
+    <string name="findPassword">查询密码</string>
+    <string name="tagsEmpty">标签不可为空</string>
+    <string name="ShowClearPassword">显示密码</string>
 </resources>
